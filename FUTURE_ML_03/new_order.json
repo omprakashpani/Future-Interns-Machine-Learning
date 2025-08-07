@@ -1,0 +1,43 @@
+{
+  "id": "8b38099e-573c-4cec-82e2-879d7f0aa606",
+  "name": "new_order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing_order",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "what product would you like to order?",
+            "absolutely! what item would you like to order?",
+            "you can tell me the item name and quantity, and i\u0027ll process it for you.",
+            "Ok, starting a new order. You can say things like \"I want two pizzas and one mango lassi\". Make sure to specify a quantity for every food item!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

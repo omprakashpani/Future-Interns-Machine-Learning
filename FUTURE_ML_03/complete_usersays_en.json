@@ -1,0 +1,54 @@
+[
+  {
+    "id": "64c9244b-a518-4374-88b4-bc84a398fa6c",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc167088-38a7-48ae-86e7-29b945cb8e94",
+    "data": [
+      {
+        "text": "That\u0027s it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06c45abb-d0ce-47e6-b4f3-bee32e2bb2c3",
+    "data": [
+      {
+        "text": "Place an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9aed393-177b-4846-8cb6-f8256e5f00a7",
+    "data": [
+      {
+        "text": "That\u0027s all I needed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

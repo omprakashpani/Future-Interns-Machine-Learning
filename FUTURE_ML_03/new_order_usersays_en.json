@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a2b1f82a-4447-4363-a654-27fcfbfc9d62",
+    "data": [
+      {
+        "text": "order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d70bc434-9414-4908-b341-24044aff1322",
+    "data": [
+      {
+        "text": "i want to order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ad10428-4227-47d8-8826-7d50964434b4",
+    "data": [
+      {
+        "text": "i would like to buy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "466f7b4a-70c7-4230-9a93-ae39d53e2a0c",
+    "data": [
+      {
+        "text": "can you help me order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f57661b1-ab6e-4f9b-a399-43016d9f6773",
+    "data": [
+      {
+        "text": "i need to place a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "508ffb4e-38de-4594-896d-17cb80e3aea5",
+    "data": [
+      {
+        "text": "i want to place a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
